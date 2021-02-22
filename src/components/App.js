@@ -5,7 +5,7 @@ import About from "./About.js"
 import ArticleList from "./ArticleList"
 import Article from "./Article"
 
-console.log(blogData);
+// console.log(blogData);
 
 function App() {
   return (
