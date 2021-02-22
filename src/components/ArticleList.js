@@ -2,7 +2,6 @@ import React from "react"
 import Article from "./Article"
 
 function ArticleList({posts}){
-    console.log(posts)
 
     const postInfo = posts.map((post) => (
         <Article 
